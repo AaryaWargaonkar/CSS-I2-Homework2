@@ -1,0 +1,15 @@
+h1{
+ color: brown;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-weight: 700;
+}
+p{
+    color: rgb(11, 138, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+ul{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
